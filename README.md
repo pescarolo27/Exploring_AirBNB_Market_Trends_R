@@ -4,4 +4,5 @@ As a consultant working for a real estate start-up, you have collected Airbnb li
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Machine learning was not applied in this project.
+Machine learning was not applied in this project. 
+This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
