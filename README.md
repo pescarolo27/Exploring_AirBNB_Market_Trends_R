@@ -4,7 +4,5 @@
 
 **Purpose:** As a consultant working for a real estate start-up, you have collected Airbnb listing data from various sources to investigate the short-term rental market in New York. You'll analyze this data to provide insights on private rooms to the real estate company.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project. 
+This project was done in June, 2025. Machine learning was not applied in this project. 
 This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
